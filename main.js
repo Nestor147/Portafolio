@@ -53,7 +53,10 @@ ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
 ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contact form', { origin: 'botton' });
 ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
-ScrollReveal().reveal('.home-content .enlaces-redes-sociales, ul', { origin: 'left' });
+ScrollReveal().reveal('.home-content .enlaces-redes-sociales, ul,', { origin: 'left' });
+ScrollReveal().reveal('.container, ul, container', { origin: 'left' });
+ScrollReveal().reveal('.content2', { origin: 'right' });
+ScrollReveal().reveal('.content1', { origin: 'left' });
 
 
 
